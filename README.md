@@ -1,7 +1,10 @@
 GitView
-=======
-
-Issue Viewer for Github built with backbone.js. The data is pulled from Github issue API (http://developer.github.com/v3/issues/).
+=======  
+Copyright (c) 2013 Jack Wang  
+  
+What is GitView
+-------
+GitView is a Github issue viewer built with backbone.js. The data is pulled from Github issue API (http://developer.github.com/v3/issues/).
 
 
 
