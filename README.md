@@ -1,7 +1,7 @@
 GitView
 =======
 
-Issue Viewer for Github built with backbone.js. The data is pulled from Github issue API(http://developer.github.com/v3/issues/).
+Issue Viewer for Github built with backbone.js. The data is pulled from Github issue API (http://developer.github.com/v3/issues/).
 
 
 
